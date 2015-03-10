@@ -1,2 +1,2 @@
-# The Beat Predictor
-Collection of programs used to make song predictions based of off a radio stations history of songs played.
+# Project Euler
+Collection of programs used to solve problems from projecteuler.net.
