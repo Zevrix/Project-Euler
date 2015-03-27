@@ -25,7 +25,7 @@ def order(L1):
     L3 = list(L1)
     L3.sort()
     for x in L1:
-        L2.append(L3.index(x)+1)
+        L2.append(L3.index(x)+1) 
     return L2
 
 def inv_collatz(n):
